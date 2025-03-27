@@ -34,9 +34,9 @@ unzip california-housing-prices.zip
 All code is available in the Jupyter notebook format. You can run it to train and evaluate the Gradient Boosting model, along with other models.
 
 ## Data Preprocessing
-Data Cleaning: Rows with missing values were dropped.
-Feature Engineering: One-hot encoding was applied to the 'ocean_proximity' column.
-Feature Scaling: The first 8 columns were scaled using StandardScaler to improve model performance.
+- Data Cleaning: Rows with missing values were dropped.
+- Feature Engineering: One-hot encoding was applied to the 'ocean_proximity' column.
+- Feature Scaling: The first 8 columns were scaled using StandardScaler to improve model performance.
 
 ## Model Training
 Models Evaluated:
